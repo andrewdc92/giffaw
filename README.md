@@ -1,14 +1,14 @@
-# Giffaw
+Andrew Cordivari
 
-Your goal is to integrate with the Giphy API.
+github.com/andrewdc92
 
-https://github.com/Giphy/GiphyAPI
+This was a lot of fun. I enjoyed the fact that the end goal was very tangible (mentally, when envisioning the end goal). I think at the end, I had a conflict between referencing the general search api query and the specific api query that loaded the trending ones at the outset. I initially had the search bar working, but couldn't append the images, and when I used the trending endpoint code my search bar stopped working! Probably because the variable reference in my function was messed up, but I couldn't spot it. So I kind of hacked it by changing the value on pg 1 so it loads the trending that way, and the search bar works as well. I will ask one of you for some clarification on what was cuasing the overriding command tomorrow. 
 
-Basic Requirements:
 
-* A user can see the top 25 gifs from Giphy (on page load)
-* A user can search for gifs, using the input field
-* Super Bonus: A user can "load more" gifs
+
+
+
+
 
 Your site should look something like:
 
